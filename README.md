@@ -24,7 +24,7 @@ Our goal is to help players improve their strategies and provide tips to solve t
 
 For the latest Wordle hints, answers, and tips, check out our dedicated website:
 
-🌟 [Wordle Today - Hints and Answers](https://nyt.tips)
+🌟 [Wordle Today - Hints and Answers](https://nyt.tips/wordle/)
 
 Our website offers:
 - Detailed breakdowns of each puzzle.
